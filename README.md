@@ -1,7 +1,7 @@
-# `zsh-updoot`
+# `zsh-updo`
 
-Installs [`updoot`][link-updoot] and integrates it with zsh.
+Installs [`updo`][link-updo] and integrates it with zsh.
 
 ### NOT YET FUNCTIONAL OR READY FOR USE!
 
-[link-updoot]: https://github.com/daveio/updoot
+[link-updo]: https://github.com/daveio/updo
