@@ -12,4 +12,4 @@ before_install:
 - make install
 - cd -
 - export PATH="$LOCAL/bin:$PATH"
-script: zsh -c "set +v; echo $ZSH_VERSION; source updo.plugin.zsh; _updo_ci_test"
+script: zsh -c 'set +v; echo ${ZSH_VERSION}; source updo.plugin.zsh; _updo_ci_test param'
