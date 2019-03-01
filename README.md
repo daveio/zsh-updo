@@ -1,6 +1,6 @@
 # `zsh-updo`
 
-[![Build Status](https://travis-ci.com/daveio/genotp.svg?branch=master)](https://travis-ci.com/daveio/genotp)
+[![Build Status](https://travis-ci.com/daveio/zsh-updo.svg?branch=master)](https://travis-ci.com/daveio/zsh-updo)
 
 Installs [`updo`][link-updo] and integrates it with zsh.
 
